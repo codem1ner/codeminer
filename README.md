@@ -1,6 +1,6 @@
 
 # Developer Resources
-Reccomended resources for learning web development (based on bitter experience).
+Recommended resources for learning web development (based on bitter experience...)
 
 ## 
 - [The Odin Project](https://www.theodinproject.com/) - an excellent starting point for anyone (I'm currently using it). My only minor gripe is that it references too many external resources from the outside, which can be distracing.
@@ -10,7 +10,6 @@ Reccomended resources for learning web development (based on bitter experience).
 
 ## Javascript
 - [Eloquent Javascript](https://eloquentjavascript.net/) by Marijn Haverbeke
-- 
 
 ## Using Chrome Developer Tools by [Command Line Fanatic](https://commandlinefanatic.com/)
 - [Part 1: The Elements Tab](https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art033)
