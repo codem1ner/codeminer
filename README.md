@@ -2,10 +2,10 @@
 # Developer Resources
 Recommended resources for learning web development (based on bitter experience...)
 
-## 
+## Bootcamps, Tutorials and Courses
 - [The Odin Project](https://www.theodinproject.com/) - an excellent starting point for anyone (I'm currently using it). Minor gripe: it references too many external resources from the outset, which can be distracting.
 - [W3Schools](https://www.w3schools.com/html/) is a superb resource point for those starting out in web development.
-- [Full Stack Open](https://fullstackopen.com/en/): just superb. Can't add anything.
+- [Full Stack Open](https://fullstackopen.com/en/): just superb. Can't add anything
 - [Interneting is Hard](https://www.internetingishard.com/)
 
 ## Javascript
