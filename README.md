@@ -9,7 +9,9 @@ Recommended resources for learning web development (based on bitter experience..
 - [Interneting is Hard](https://www.internetingishard.com/)
 
 ## Flexbox
-[What the Flexbox](https://flexbox.io/)
+- [What the Flexbox](https://flexbox.io/)
+- [Common CSS Flexbox Layout Patterns](https://tobiasahlin.com/blog/common-flexbox-patterns/)
+
 
 ## Git
 - [Pro Git](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub
@@ -30,3 +32,9 @@ Recommended resources for learning web development (based on bitter experience..
 - [Part 7: The Resources Tab](https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art039)
 - [Part 8: The Audits Tab](https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art040)
 - [Part 9: The Console Tab](https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art041)
+
+## Design Principles
+- [Resilient Web Design](https://resilientwebdesign.com/) by Jeremy Keith
+
+## Remote Development
+- [Remote-Friendly Companies](https://github.com/remoteintech/remote-jobs)
