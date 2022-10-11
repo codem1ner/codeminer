@@ -8,8 +8,17 @@ Recommended resources for learning web development (based on bitter experience..
 - [Full Stack Open](https://fullstackopen.com/en/): just superb. Can't add anything
 - [Interneting is Hard](https://www.internetingishard.com/)
 
+## Flexbox
+[What the Flexbox](https://flexbox.io/)
+
+## Git
+- [Pro Git](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub
+- [Oh Shit, Git!](https://ohshitgit.com/) - recover from Git mistakes. Invaluable
+- [Git in Simple Words](https://xosh.org/explain-git-in-simple-words/)
+
 ## Javascript
 - [Eloquent Javascript](https://eloquentjavascript.net/) by Marijn Haverbeke
+- [Javascript 30](https://javascript30.com/)
 
 ## Using Chrome Developer Tools by [Command Line Fanatic](https://commandlinefanatic.com/)
 - [Part 1: The Elements Tab](https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art033)
