@@ -3,6 +3,7 @@
 Recommended resources for learning web development 
 
 ## Bootcamps, Tutorials, Courses & Roadmaps
+
 - [The Odin Project](https://www.theodinproject.com/) - an open source coding curriculum founded in 2013 by Eric Trautman, and a good place to start 
 - [W3Schools](https://www.w3schools.com/html/) - good for a broad overview of developer languages, and a quick reference for those starting out
 - [Full Stack Open](https://fullstackopen.com/en/): excellent JavaScript-based web development course
@@ -15,6 +16,7 @@ Recommended resources for learning web development
 - [Common CSS Flexbox Layout Patterns](https://tobiasahlin.com/blog/common-flexbox-patterns/)
 
 ## Git
+
 - [Pro Git](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub
 - [Oh Shit, Git!](https://ohshitgit.com/) - recover from Git mistakes. Invaluable
 - [Git in Simple Words](https://xosh.org/explain-git-in-simple-words/)
@@ -37,16 +39,15 @@ Recommended resources for learning web development
 - [Part 9: The Console Tab](https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art041)
 
 ## Design Principles
+
 - [Resilient Web Design](https://resilientwebdesign.com/) by Jeremy Keith
 
 ## Remote Development
+
 - [Remote-Friendly Companies](https://github.com/remoteintech/remote-jobs)
 
-## CS 
+## CS
+
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-
 - [Harvard CS50x](https://cs50.harvard.edu/x/2022/)
-
 - [How to Design Programs, 2nd Ed](https://htdp.org/2022-8-7/Book/index.html)
-
-  
