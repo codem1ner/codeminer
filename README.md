@@ -1,17 +1,18 @@
-
 # Developer Resources
-Recommended resources for learning web development (based on bitter experience...)
 
-## Bootcamps, Tutorials and Courses
-- [The Odin Project](https://www.theodinproject.com/) - an excellent starting point for anyone (I'm currently using it). Minor gripe: it references too many external resources from the outset, which can be distracting.
-- [W3Schools](https://www.w3schools.com/html/) is a superb resource point for those starting out in web development.
-- [Full Stack Open](https://fullstackopen.com/en/): just superb. Can't add anything
+Recommended resources for learning web development 
+
+## Bootcamps, Tutorials, Courses & Roadmaps
+- [The Odin Project](https://www.theodinproject.com/) - an open source coding curriculum founded in 2013 by Eric Trautman, and a good place to start 
+- [W3Schools](https://www.w3schools.com/html/) - good for a broad overview of developer languages, and a quick reference for those starting out
+- [Full Stack Open](https://fullstackopen.com/en/): excellent JavaScript-based web development course
 - [Interneting is Hard](https://www.internetingishard.com/)
+- [Developer Roadmaps](https://roadmap.sh/)
 
 ## Flexbox
-- [What the Flexbox](https://flexbox.io/)
-- [Common CSS Flexbox Layout Patterns](https://tobiasahlin.com/blog/common-flexbox-patterns/)
 
+- [What the Flexbox by Wes Bos](https://flexbox.io/)
+- [Common CSS Flexbox Layout Patterns](https://tobiasahlin.com/blog/common-flexbox-patterns/)
 
 ## Git
 - [Pro Git](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub
@@ -19,10 +20,12 @@ Recommended resources for learning web development (based on bitter experience..
 - [Git in Simple Words](https://xosh.org/explain-git-in-simple-words/)
 
 ## Javascript
+
 - [Eloquent Javascript](https://eloquentjavascript.net/) by Marijn Haverbeke
-- [Javascript 30](https://javascript30.com/)
+- [Javascript 30](https://javascript30.com/) by Wes Bos
 
 ## Using Chrome Developer Tools by [Command Line Fanatic](https://commandlinefanatic.com/)
+
 - [Part 1: The Elements Tab](https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art033)
 - [Part 2: The Network Tab](https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art034)
 - [Part 3: The Sources Tab](https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art035)
@@ -38,3 +41,12 @@ Recommended resources for learning web development (based on bitter experience..
 
 ## Remote Development
 - [Remote-Friendly Companies](https://github.com/remoteintech/remote-jobs)
+
+## CS 
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
+- [Harvard CS50x](https://cs50.harvard.edu/x/2022/)
+
+- [How to Design Programs, 2nd Ed](https://htdp.org/2022-8-7/Book/index.html)
+
+  
