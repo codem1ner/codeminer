@@ -9,6 +9,7 @@ Recommended resources for learning web development
 - [Full Stack Open](https://fullstackopen.com/en/): excellent JavaScript-based web development course
 - [Interneting is Hard](https://www.internetingishard.com/)
 - [Developer Roadmaps](https://roadmap.sh/)
+- [Essential Programming Books](https://www.programming-books.io/index-grid)
 
 ## HTML & CSS
 
