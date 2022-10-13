@@ -1,6 +1,6 @@
 # Developer Resources
 
-Recommended resources for learning web development 
+Recommended resources for learning web development
 
 ## Bootcamps, Tutorials, Courses & Roadmaps
 
@@ -9,6 +9,14 @@ Recommended resources for learning web development
 - [Full Stack Open](https://fullstackopen.com/en/): excellent JavaScript-based web development course
 - [Interneting is Hard](https://www.internetingishard.com/)
 - [Developer Roadmaps](https://roadmap.sh/)
+
+## HTML & CSS
+
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+- [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
+- [Dive into HTML5](https://diveintohtml5.info/index.html) by Mark Pilgrim
+- [Learn CSS Layout the Pedantic Way](http://book.mixu.net/css/) by Mikito Takada
+- [The Magic of CSS](https://adamschwartz.co/magic-of-css/) by Adam Schwartz
 
 ## Flexbox
 
@@ -25,6 +33,11 @@ Recommended resources for learning web development
 
 - [Eloquent Javascript](https://eloquentjavascript.net/) by Marijn Haverbeke
 - [Javascript 30](https://javascript30.com/) by Wes Bos
+- [Learning JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/) by Addi Osmani
+
+## Style Guides
+
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 
 ## Using Chrome Developer Tools by [Command Line Fanatic](https://commandlinefanatic.com/)
 
@@ -51,3 +64,7 @@ Recommended resources for learning web development
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [Harvard CS50x](https://cs50.harvard.edu/x/2022/)
 - [How to Design Programs, 2nd Ed](https://htdp.org/2022-8-7/Book/index.html)
+
+## Other Sources
+
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
