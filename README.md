@@ -4,7 +4,7 @@ Recommended resources for learning web development
 
 ## Bootcamps, Tutorials, Courses & Roadmaps
 
-- [The Odin Project](https://www.theodinproject.com/) - an open source coding curriculum founded in 2013 by Eric Trautman, and a good place to start 
+- [The Odin Project](https://www.theodinproject.com/) - an open source coding curriculum founded in 2013 by Eric Trautman 
 - [W3Schools](https://www.w3schools.com/html/) - good for a broad overview of developer languages, and a quick reference for those starting out
 - [Full Stack Open](https://fullstackopen.com/en/): excellent JavaScript-based web development course
 - [Interneting is Hard](https://www.internetingishard.com/)
