@@ -39,6 +39,7 @@ Recommended resources for learning web development
 - [Egghead.Io - Concise Full Stack Courses for Busy Web Developers](https://egghead.io/)
 - [You Don't Know JS (Yet)](https://github.com/getify/You-Dont-Know-JS)
 - [MDN Web Docs Javascript Overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Overview)
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ## Style Guides
 
