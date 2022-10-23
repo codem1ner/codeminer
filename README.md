@@ -76,5 +76,4 @@ Recommended resources for learning web development
 - [The Solo Developer's Manifesto](https://github.com/fawazahmed0/the-solo-developers-manifesto)
 - [Awesome Lists](https://github.com/topics/awesome)
 - [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#curated-programming-resources)
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Reddit - Learn Programming](https://www.reddit.com/r/learnprogramming/wiki/faq/)
